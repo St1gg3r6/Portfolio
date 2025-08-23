@@ -1,0 +1,13 @@
+.attribution {
+    color: rgba(255, 255, 255, 0.35);
+    font-size: 0.9em;
+    line-height: 1;
+    /* margin-left: 1em; */
+    padding: 0;
+    /* padding-left: 1em; */
+    list-style-type: none;
+}
+
+.attribution a {
+    color: inherit;
+}
